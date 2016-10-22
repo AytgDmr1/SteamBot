@@ -1,0 +1,13 @@
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.exe.config
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.exe
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.pdb
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.dll
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamKit2.dll
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.pdb
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.xml
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamKit2.xml
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.csprojResolveAssemblyReference.cache
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.exe
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.pdb
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\ChatterBotAPI.dll
+c:\users\aytuğ\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\ChatterBotAPI.pdb
