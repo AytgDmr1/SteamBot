@@ -1,4 +1,4 @@
 # SteamBot
 Steam Chat Bot with Cleverbot and command functions.
 
-## Full tutorial video will be here soon!
+## 6 June 2017 Edit: Probably doesn't work anymore.
